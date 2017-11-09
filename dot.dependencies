@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "dev4wds/android_vendor_motorola_woods",
+    "target_path": "vendor/motorola/woods",
+    "branch": "master"
+  },
+  {
+    "remote": "github",
+    "repository": "dev4wds/android_kernel_motorola_woods",
+    "target_path": "kernel/motorola/woods",
+    "branch": "master"
+  }
+] 
