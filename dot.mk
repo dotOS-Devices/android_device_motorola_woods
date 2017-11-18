@@ -35,4 +35,4 @@ ROOT_METHOD := magisk
 
 #Sign woods to Official
 DOT_OFFICIAL := true
-DOT_ BUILDTYPE := OFFICIAL
+DOT_BUILDTYPE := OFFICIAL
