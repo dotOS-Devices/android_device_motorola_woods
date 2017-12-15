@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_kernel_motorola_woods",
+    "target_path": "kernel/motorola/woods"
+  },
+  {
+    "repository": "android_vendor_motorola_woods",
+    "target_path": "vendor/motorola/woods" 
+  }
+]
